@@ -12,3 +12,5 @@ Llene el formulario porfavor
   <input type="text" id="lname" name="Correo Electronico" value= ""><br>
   <label for="name">País:</label><br>
   <input type="date" id="lname" name="País" value= ""><br>
+  <label for="name">Fecha De Nacimiento:</label><br>
+  <input type="date" id="lname" name="Fecha De Nacimiento" value= ""><br>
