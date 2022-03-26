@@ -1,6 +1,9 @@
 [Marcas](Marcas.md) [Contacto](Contacto.md)
 
-## Welcome to GitHub Pages
+## Bienvenido
+Sean bienvenidos a esta pagina, esperemos y sea de su agrado el contenido que esta pagina ofrece
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HaruShirts/HaruShirts.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
