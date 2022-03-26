@@ -20,4 +20,5 @@ Llene el formulario porfavor
   </form>
 
 Mandanos un Whatsapp escaneando este codigo QR
+
 ![wa link_y0infd](https://user-images.githubusercontent.com/99769644/160233676-a345bb5b-152e-419c-8131-fff7e60d42dd.png)
